@@ -1,0 +1,12 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    color: #555;
+}
+
+.imagen {
+    border: 10px;    
+    border-color: red;
+    border-style: inset;
+}
